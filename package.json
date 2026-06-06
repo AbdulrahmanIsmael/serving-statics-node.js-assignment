@@ -1,0 +1,19 @@
+{
+  "name": "path-and-serving-static-files-assignment",
+  "version": "1.0.0",
+  "description": "Assignment to practice using path package with serving static files using static middleware",
+  "license": "ISC",
+  "author": "Abdulrahman Ismael",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
